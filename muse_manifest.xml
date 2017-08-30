@@ -1,0 +1,21 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432494916133">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="4258874356" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="photos.url" crc="412729305" mt="1360897585000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="shoottheeye (1).jpg" crc="3763390061" ref="index"/>
+    <file name="img_7409.jpg" crc="3926475242" ref="index"/>
+    <file name="img_2650.jpg" crc="4023741182" ref="index"/>
+  </folder>
+  <file name="index.html" crc="510733096" mt="1432494915824" redirect="true"/>
+</manifest>
